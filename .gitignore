@@ -1,0 +1,4 @@
+/build/
+!/build/glew.rc
+!/build/glewinfo.rc
+!/build/visualinfo.rc
